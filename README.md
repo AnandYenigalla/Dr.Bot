@@ -11,4 +11,4 @@ conda create -n drbot python=3.8 -y
 
 conda activate drbot
 
-3. pip install requirements.txt
+3. pip install -r requirements.txt
